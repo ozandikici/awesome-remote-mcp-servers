@@ -2049,6 +2049,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Site Passport](https://sitepassport.org) `https://sitepassport.org/.well-known/mcp.json`
   [![Site Passport MCP connector](https://glama.ai/mcp/connectors/org.sitepassport/check-wordpress-agent-readiness/badges/score.svg)](https://glama.ai/mcp/connectors/org.sitepassport/check-wordpress-agent-readiness)
   🔓 - Check whether AI agents can safely operate a WordPress site: llms.txt, robots.txt and schema.org.
+- [Sitelemetry](https://sitelemetry.com/mcp-guide) `https://sitelemetry.com/mcp`
+  [![Sitelemetry MCP connector](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry/badges/score.svg)](https://glama.ai/mcp/connectors/com.sitelemetry/sitelemetry)
+  🔐 - Audit sites you own for security, SEO, AI readiness, accessibility, performance and integrations.
 - [Tanod](https://tanod.dev) `https://tanod.dev/mcp`
   [![Tanod MCP connector](https://glama.ai/mcp/connectors/dev.tanod/tanod/badges/score.svg)](https://glama.ai/mcp/connectors/dev.tanod/tanod)
   🔓 - Pre-transaction address checks, agent skill and MCP package scans, Solidity scans; paid per call via x402.
